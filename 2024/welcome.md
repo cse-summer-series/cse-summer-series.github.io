@@ -24,7 +24,9 @@ from our courses to help you prepare for the year
 ✅ **Do Now! (Do one, some, or all!)**
 
 - Watch this welcome video, which has some information about how to complete the steps below: FILL
-- Fill out the welcome form: FILL
+- Fill out the [welcome form](https://docs.google.com/forms/d/e/1FAIpQLSc0fj_yKUVfr6RbhSjB5K73AZ4CzQL8_3ZIa3LzIPLRYwBTgw/viewform)
+  
+  https://docs.google.com/forms/d/e/1FAIpQLSc0fj_yKUVfr6RbhSjB5K73AZ4CzQL8_3ZIa3LzIPLRYwBTgw/viewform
 - Join the Discord server and say hi: FILL
 - Make a Github student account: https://github.com/edu/students (let me know if you can't! You can email me directly or ask on Discord.)
 - Join the Github Classroom for Summer Series: FILL
