@@ -23,7 +23,9 @@ our courses to help you prepare for the year
 
 ✅ **Do Now! (Do one, some, or all!)**
 
-- Watch this welcome video, which has some information about how to complete the steps below: FILL
+- Watch [this welcome video](https://youtu.be/OyHSjZbOP5Q), which has some information about how to complete the steps below:
+  
+  [https://youtu.be/OyHSjZbOP5Q](https://youtu.be/OyHSjZbOP5Q)
 - Fill out the [welcome form](https://docs.google.com/forms/d/e/1FAIpQLSc0fj_yKUVfr6RbhSjB5K73AZ4CzQL8_3ZIa3LzIPLRYwBTgw/viewform):
   
   [https://docs.google.com/forms/d/e/1FAIpQLSc0fj_yKUVfr6RbhSjB5K73AZ4CzQL8_3ZIa3LzIPLRYwBTgw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc0fj_yKUVfr6RbhSjB5K73AZ4CzQL8_3ZIa3LzIPLRYwBTgw/viewform)
