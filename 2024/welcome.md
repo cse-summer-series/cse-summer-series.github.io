@@ -5,14 +5,13 @@ student this fall. Welcome!
 
 👋🏻 **CSE Summer Series**
 
-My name is Joe, I'm a professor in the CSE department. I teach several lower
+[My name is Joe](https://jpolitz.github.io/), I'm a professor in the CSE department. I teach several lower
 division courses (you may end up taking CSE29 with me in the fall!).
 
-I'm writing to tell you about the CSE Summer Series, a free online summer
-program run by the department.
-
-I'll be reaching out with weekly emails, and we'll be providing a bunch of
-different resources:
+As part of [CSE Summer
+Series](https://cse.ucsd.edu/undergraduate/cse-summer-series), a free online
+summer program run by the department, I'll be reaching out with weekly emails,
+will be providing bunch of different resources:
 
 - A Discord chat server for saying hi and asking me (and each other) questions
 - A weekly activity (usually programming) for reviewing content useful for the
