@@ -21,11 +21,16 @@ different resources:
 ✅ **Do Now! (Do one, some, or all!)**
 
 - Watch this welcome video: FILL
+- Fill out the welcome form: FILL
+- Join the Discord server and say hi: FILL
+- Join the Github Classroom for Summer Series: FILL
 - Make a Github student account: https://github.com/edu/students (let me know if you can't!)
-- Make a 
+
+🔗 **Links and Resources**
+
+- CSE courses and enrollment: FILL
+- 
 
 
 
-Participating is completely optional. If you want to stop getting emails from
-me you can reply to tell me so or say so in the welcome form below.
 
