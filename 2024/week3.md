@@ -1,6 +1,6 @@
 Hi all!
 
-We'll continue our exploration of UTF-8 with dynamic memory allocation!
+This week we'll continue our exploration of UTF-8 with dynamic memory allocation!
 
 ✅ **Do Now! (Do one, some, or all!)**
 
@@ -19,11 +19,12 @@ We'll continue our exploration of UTF-8 with dynamic memory allocation!
 
 🔗 **Links and Resources**
 
-- 
+- Did you know many classes are recorded? You can watch past class recordings by logging in with your @ucsd account at https://podcast.ucsd.edu/. Try searching under “Past Classes” for a course you're interested in if you want a preview!
+- Check out some student organizations associated with [CSE](https://cse.ucsd.edu/diversity/student-organizations) and the [Jacobs School of Engineering](https://jacobsschool.ucsd.edu/idea/student-orgs)!
 - CSE courses and enrollment: [https://cse.ucsd.edu/undergraduate/tentative-course-offerings](https://cse.ucsd.edu/undergraduate/tentative-course-offerings)
 - CSE advising: [https://cse.ucsd.edu/undergraduate/undergraduate-advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
 - Check out the [CSE Summer Series](https://cse.ucsd.edu/undergraduate/cse-summer-series) on UCSD CSE's website, and the [posts from this mailing list](https://cse-summer-series.github.io/2024/)
 
-Happy Summer! ☀️
+Happy Summer! 🌅
 
 Joe
