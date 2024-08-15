@@ -24,4 +24,5 @@ This week we'll talk hashing, passwords, and how C is really fast.
 - Check out the [CSE Summer Series](https://cse.ucsd.edu/undergraduate/cse-summer-series) on UCSD CSE's website, and the [posts from this mailing list](https://cse-summer-series.github.io/2024/)
 
 Happy Summer! 🌅
+
 Joe

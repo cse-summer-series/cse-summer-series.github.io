@@ -10,3 +10,4 @@ The resources specific to these assignments are here:
 - [Week 2](./week2.html)
 - [Week 3](./week3.html)
 - [Week 4-5](./week4-5.html)
+- [Week 6](./week4-5.html)
