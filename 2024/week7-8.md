@@ -1,6 +1,7 @@
 Hi all!
 
-This week we'll talk about a simple Web server and URLs.
+I'm back from vacation (the reason for no update last week!).  This week we'll
+talk about a simple Web server and URLs.
 
 ✅ **Do Now! (Do one, some, or all!)**
 
