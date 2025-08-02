@@ -27,11 +27,15 @@ our courses to help you prepare for the year
   https://youtu.be/99TD24cJ5Uw
   
 - Fill out the [welcome form](https://docs.google.com/forms/d/1wymRYUsQMA4gWiz7-WIsBGSEFOJXBZIsnp39gKfBnQs/preview)
-  
-- Make a free LeetCode account: https://leetcode.com (let me know if you can't! You can email me directly or ask on Discord.)
 
-- Follow along with what I did in the startup video! Typing in the code like I
-did is great practice and will build towards more sophisticated examples.
+- Join the [Discord server](https://discord.gg/4zexzTVv6Z) and say hi:
+  
+  [https://discord.gg/4zexzTVv6Z](https://discord.gg/4zexzTVv6Z)
+
+- Make a free LeetCode account: https://leetcode.com (let me know if you can't!
+You can email me directly or ask on Discord.) Follow along with what I did in
+the startup video! Typing in the code like I did is great practice and will
+build towards more sophisticated examples.
 
 - Do your best to complete the [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) problem in a programming language of your choice:
 
