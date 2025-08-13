@@ -7,3 +7,4 @@ Politz](https://jpolitz.github.io)
 The resources specific to these assignments are here:
 
 - [Week 1](./welcome.html)
+- [Week 2](./week2.html)
