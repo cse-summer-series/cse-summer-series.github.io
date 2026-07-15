@@ -97,11 +97,19 @@ output! We'll talk about that more in future weeks.
 
 🔗 **Links and Resources**
 
-- CSE courses and enrollment: [https://cse.ucsd.edu/undergraduate/tentative-course-offerings](https://cse.ucsd.edu/undergraduate/tentative-course-offerings)
-- CSE advising: [https://cse.ucsd.edu/undergraduate/undergraduate-advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
-- [Dive Into Systems](https://diveintosystems.org/book/introduction.html) — the textbook used in CSE29, one of your likely first courses, with lots of C resources.
-- The website [https://cse-summer-series.github.io/2026/](https://cse-summer-series.github.io/2026/) has all of these messages.
-- I'll generally pay attention to DMs and messages on the Discord server during the summer, so reach out if you have questions or just want to say hi.
+- CSE courses and enrollment:
+  [https://cse.ucsd.edu/undergraduate/tentative-course-offerings](https://cse.ucsd.edu/undergraduate/tentative-course-offerings)
+- CSE advising:
+  [https://cse.ucsd.edu/undergraduate/undergraduate-advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
+- [Dive Into Systems](https://diveintosystems.org/book/introduction.html) — the
+  textbook used in CSE29, one of your likely first courses, with lots of C
+  resources.
+- The website
+  [https://cse-summer-series.github.io/2026/](https://cse-summer-series.github.io/2026/)
+  has all of these messages.
+- I'll generally pay attention to email replies to this, and to DMs/messages on
+  the Discord server during the summer, so reach out if you have questions, or
+  even just want to say hi!
 
 Looking forward to a good summer with you all!
 
