@@ -108,12 +108,12 @@ again in the fall.
 
 As usual, two small things — one with **AI off**, one with **AI on**.
 
-🔌 **AI off — Programming Practice.** Keep practicing coding with your own typing skills and brain: you'll be tested on in person this year. [Watch me solve *Add Two Numbers*](https://youtu.be/F-5cax98m7w), then try [Add Binary](https://leetcode.com/problems/add-binary/) yourself in a language of your choice:
+🔌 **AI off — Programming Practice.** Keep practicing coding with your own typing skills and brain: you'll be tested in person this year. [Watch me solve *Add Two Numbers*](https://youtu.be/F-5cax98m7w), then try [Add Binary](https://leetcode.com/problems/add-binary/) yourself in a language of your choice:
 
   https://leetcode.com/problems/add-binary/
 
 
-🤖 **AI on — Watch a C program lie to you.** 
+🤖 **AI on — Watch a C program lie to you.**
 
 There was a mistake I saw in some `lengthOfLastWord` solutions (across
 languages). Here it is in C:
@@ -158,13 +158,13 @@ skills, plus AI to fill in any gaps, to understand what's going on.
        process. (Note that you don't _have_ to use AI to help here, the
        instructions in the file are pretty good! But I think an AI system will
        be able to give useful step-by-step instructions and explain some ideas
-       here, and then we can check in about them)
+       here, and then we can check in about them.)
 
   This kind of debugging and tooling is something you'll see in CSE29. It's
   completely fine to feel lost in the terminal, use whatever resources you like
   to try and get through it, and reach out if you get stuck. The important
   thing is that *you* come out of the process understanding (a) the bug in the
-  program (b) how to "see" the bug better by using built-in compiler tool.qp
+  program (b) how to "see" the bug better by using built-in compiler tool.
 
 🔗 **Links and Resources**
 
