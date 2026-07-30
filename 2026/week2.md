@@ -8,9 +8,11 @@ First — thank you to everyone who sent in a solution to last week's *Length of
 Last Word*. I'm posting a few of them below, anonymized and lightly edited to
 aggregate ideas rather than putting specific people on the spot. The
 **variety** was interesting, and there's a lot to learn from lining them
-up side by side.
+up side by side. As you read them, think about what's similar and different to
+your own implementation – any subtle places where a condition or check differs?
 
-Let's look at two right here — one walks **forward** through the string, the other starts at the **end** and walks backward. Both are correct:
+The first two are in Python, and one walks **forward** through the string, the
+other starts at the **end** and walks backward. Both are correct.
 
 ```python
 # Idea 1 — walk forward, remembering the length of the word you're currently in,
@@ -40,6 +42,25 @@ def lengthOfLastWord(s):
         length += 1
         i -= 1
     return length
+```
+
+A few of you used C++ — here's that same backward idea (Idea 2), same logic,
+just different syntax:
+
+```cpp
+// Idea 2 again, in C++.
+int lengthOfLastWord(string s) {
+    int i = s.length() - 1;
+    while (i >= 0 && s[i] == ' ') {
+        i--;
+    }
+    int length = 0;
+    while (i >= 0 && s[i] != ' ') {
+        length++;
+        i--;
+    }
+    return length;
+}
 ```
 
 I also ran a little experiment: I asked a bunch of AI assistants to solve the
