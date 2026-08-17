@@ -93,16 +93,16 @@ Same deal as before: try it with your own brain and typing first.
 
 This short video walks through a recursive function that processes a tree:
 
-  - https://youtu.be/Ay7ecVA0pco
+  [https://youtu.be/Ay7ecVA0pco](https://youtu.be/Ay7ecVA0pco)
 
 The coding problem for the week is [**Symmetric
 Tree**](https://leetcode.com/problems/symmetric-tree):
 
-  https://leetcode.com/problems/symmetric-tree
+  [https://leetcode.com/problems/symmetric-tree](https://leetcode.com/problems/symmetric-tree)
 
 Do it in whatever language you like, then share your solution by replying to
-this email, DMing me on Discord, or submitting to the Google Form. I'll line a
-few up next week and we can look at what's similar and different on Discord.
+this email, DMing me on Discord, or submitting to the Google Form. I'll discuss
+a few next week with interesting things I saw.
 
 🔗 **Links and Resources**
 
