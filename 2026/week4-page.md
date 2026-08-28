@@ -206,8 +206,8 @@ Never too late to start, no deadline, no pressure — a month from now is fine.
 - [CSE PACE](https://pace.ucsd.edu) – a place to come hang out, talk about
   computing topics, and get free lunch. Open to *anyone* in their first year at
   UCSD (that includes incoming transfer students!)
-- Student orgs are where a lot of CSE community actually happens, and they know things I
-  don't — to name just a few: [CSES](https://csesucsd.com/), [ACM at
+- Student orgs are where a lot of CSE community actually happens — to name just
+  a few: [CSES](https://csesucsd.com/), [ACM at
   UCSD](https://acmucsd.com/), [TESC](https://tesc.ucsd.edu/),
   [WIC](https://wicucsd.vercel.app/),
   [ColorStack](https://colorstackucsd.org/), [Triton Quantitative

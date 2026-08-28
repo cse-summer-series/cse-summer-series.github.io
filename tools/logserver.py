@@ -102,6 +102,17 @@ class Handler(BaseHTTPRequestHandler):
         self._send(204)
 
     def do_GET(self):
+        # /ping exists so a human can prove the public proxy reaches this server
+        # from a browser: GET /log is a 404 by design and GET /stats writes
+        # nothing, so neither one leaves evidence that the request arrived.
+        if self.path.rstrip("/") == "/ping":
+            if rate_ok():
+                CONN.execute(
+                    "INSERT INTO clicks (ts, week, section, kind) VALUES (?,?,?,?)",
+                    (time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                     "test", "ping", "get"))
+                CONN.commit()
+            return self._send(200, b"logged a ping row -- the proxy reaches this server\n")
         if self.path.rstrip("/") != "/stats":
             return self._send(404)
         rows = CONN.execute(
